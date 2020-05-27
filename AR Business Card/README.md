@@ -35,5 +35,6 @@ the image target( that is our BCard here ) shows up.
 
 ## Screenshots :-
 
-<img src="https://github.com/utkarsh-yadav1231/Augmented-Reality/blob/master/AR%20Business%20Card/Screenshots/Bcard%20(8).jpg" alt="My cool logo"/>
+<img src="https://github.com/utkarsh-yadav1231/Augmented-Reality/blob/master/AR%20Business%20Card/Screenshots/Bcard%20(8).jpg" alt="SS 1"/>
 
+<img src="https://github.com/utkarsh-yadav1231/Augmented-Reality/blob/master/AR%20Business%20Card/Screenshots/BCard%20(Profile).jpg" alt="SS 2"/>
