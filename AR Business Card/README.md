@@ -21,10 +21,19 @@ the image target( that is our BCard here ) shows up.
  4) Also added 3 web-links ( GitHub, LinkedIN, Gmail ) so that on clicking those icons, user will be redirected to those webpages.
  5) Added more than hundred 'Sphere' balls prefab with animations of falling and rotation.
 
-
-
+## How to use this AR Business Card app ?
+  1. Download and print BCard Image Target.  
+  2. Install (AR Card v1) apk file on your android mobile.
+  3. On starting the application, place the BCard Image Target infront of Camera Screen.
+  4. Press Virtual buttons( that are Profile and Resume button) on the card.
+  
 ## Tools & languages:
 - Unity (game engine)
 - C# (Script Code)
 - Vuforia (AR Platform)
 - Visual Studio Code (Text editor)
+
+## Screenshots :-
+
+<img src="https://github.com/utkarsh-yadav1231/Augmented-Reality/blob/master/AR%20Business%20Card/Screenshots/Bcard%20(8).jpg" alt="My cool logo"/>
+
