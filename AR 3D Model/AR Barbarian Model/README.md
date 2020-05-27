@@ -15,7 +15,7 @@ Follow below steps :-
 8. Add suitable animation to the 3D Model and test in Game Mode.  
 9. At last, build this app for Android.   
 
-## How to use this AR Business Card app ?
+## How to use this AR_one app ?
   1. Download and print (ARoneIMG_scaled.jpg) Image Target.  
   2. Install (AR_one) apk file on your android mobile.
   3. On starting the application, place the (ARoneIMG_scaled.jpg) Image Target infront of Camera Screen.
@@ -29,5 +29,5 @@ Follow below steps :-
 
 ## Screenshots :-
 
-<img src="https://github.com/utkarsh-yadav1231/Augmented-Reality/blob/master/AR%203D%20Model/Screenshots/3D%20Barbarian%20Model.PNG " alt="SS 1"/>
+<img src="https://github.com/utkarsh-yadav1231/Augmented-Reality/blob/master/AR%203D%20Model/AR%20Barbarian%20Model/3D%20Barbarian%20Model.PNG " alt="SS 1"/>
 
