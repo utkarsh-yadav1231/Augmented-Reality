@@ -26,6 +26,8 @@ the image target( that is our BCard here ) shows up.
   2. Install (AR Card v1) apk file on your android mobile.
   3. On starting the application, place the BCard Image Target infront of Camera Screen.
   4. Press Virtual buttons( that are Profile and Resume button) on the card.
+     - On Pressing Profile button, my Profile video starts playing above the AR card.
+     - On Pressing Resume button, my Resume shows up.
   
 ## Tools & languages:
 - Unity (game engine)
