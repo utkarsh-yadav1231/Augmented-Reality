@@ -9,4 +9,4 @@
        - **AR Barbarian Model**	
        - **AR House**
 
-Many more applicatons will be added to this repository in the coming weeks. 
+Many more applicatons will be added shortly. 
