@@ -1,9 +1,16 @@
 
 
-# What is an Augmented Reality Business Card ?
+# What is this Augmented Reality Business Card ?
 At first glance, it’s an ordinary card, but when you open it with an BCard application on smartphone,
 it opens up into a 3D product model. 
 Wait! There is more. These business cards may include way more information and even product catalogs.
+
+# IEEE Research Paper Published :
+https://ieeexplore.ieee.org/document/9936445
+
+This 𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐩𝐚𝐩𝐞𝐫 presents an innovative approach to promote the business and bring customer’s attention to its product and portfolio using augmented reality 3D business cards. Since this AR business card could inculcate information about the card owner in the form of audio, video, images, and animated moving objects, which are way beyond than an ordinary printed business card could ever incorporate. It appears as a regular business card at first glimpse, but it opens up into an interactive 3D augmented business card on scanning it through a mobile device. This AR business card comes with the benefit that the card could be customised anytime according to the changing business and market needs.
+
+**Published in: 2022 Second International Conference on Computer Science, Engineering and Applications (ICCSEA).**
 
 # How I built this AR business card ?
 
